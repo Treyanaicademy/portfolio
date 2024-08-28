@@ -107,32 +107,32 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Amos was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amos's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amos is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Engaging with Amos was a remarkable experience. His dedication to quality, responsiveness, and professionalism were apparent in every phase of our project. Amos's enthusiasm for development shines brightly. If you're looking to improve your website and advance your brand, Amos is the expert you should partner with.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Partnering with Amos was an exceptional experience. His professionalism, efficiency, and dedication to achieving outstanding results were clear throughout the project. Amos's passion for development makes him stand out. For those looking to elevate their website and brand, Amos is the perfect ally.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Amos made our project a success with his unparalleled expertise and commitment. His approach was not only professional but also incredibly efficient, consistently delivering top-notch results. Amos's genuine interest in every detail of development was refreshing. For anyone aiming to enhance their online platform and boost their brand, Amos is the go-to expert.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Amos brought exceptional skill and dedication to our project, delivering results that surpassed our expectations. His thorough understanding of development and unwavering commitment were evident throughout our collaboration. For anyone seeking a reliable and talented partner to enhance their web presence and advance their brand, Amos is the perfect choice.",
+    name: "Clinto Jr",
     title: "Director of AlphaStream Technologies",
   },
 ];

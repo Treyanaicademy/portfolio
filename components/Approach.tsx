@@ -60,6 +60,17 @@ const Approach = () => {
             colors={[[125, 211, 252]]}
           />
         </Card>
+        <Card
+          title="Web Security Implementation"
+          icon={<AceternityIcon order="Phase 4" />}
+          des="We prioritize security across all web applications, implementing a robust framework to safeguard against vulnerabilities and threats. "
+        >
+          <CanvasRevealEffect
+            animationSpeed={5.1}
+            // add these classed for the border rounded overflowing -> rounded-3xl overflow-hidden
+            containerClassName="bg-emerald-900 rounded-3xl overflow-hidden"
+          />
+        </Card>
       </div>
     </section>
   );
